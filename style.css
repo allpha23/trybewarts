@@ -72,3 +72,12 @@ main {
 main {
   display: flex;
 }
+
+.rate {
+  display: flex;
+  margin-top: 20px;
+}
+
+#label-rate {
+  margin-right: 10px;
+}
