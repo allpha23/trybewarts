@@ -27,3 +27,16 @@
   width: 70px;
 }
 
+.evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+.evaluation-form main {
+  display: flex;
+}
+
+.trybewarts-forms-logo img {
+  height: 500px;
+}
