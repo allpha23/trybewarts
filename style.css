@@ -10,9 +10,7 @@
   background-color: rgb(50, 167, 145);
 }
 
-.forms {
-  order: 3;
-}
+
 
 .trybewarts-login {
   display: flex;
@@ -27,9 +25,5 @@
 
 .trybewarts-header-logo {
   width: 70px;
-  order: 1;
 }
 
-.title {
-  order: 2;
-}

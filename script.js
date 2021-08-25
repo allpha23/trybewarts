@@ -6,9 +6,9 @@ const password = '123456';
 
 function verifyLogin() {
   if (loginEmail.value === login && passwordEmail.value === password) {
-    alert('Olá Tryber');
+    alert('Olá, Tryber!');
   } else {
-    alert('Email ou senha inválidos');
+    alert('Email ou senha inválidos.');
   }
 }
 buttonEmail.addEventListener('click', verifyLogin);
