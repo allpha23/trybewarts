@@ -12,3 +12,4 @@ function verifyLogin() {
   }
 }
 buttonEmail.addEventListener('click', verifyLogin);
+
