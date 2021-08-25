@@ -56,5 +56,19 @@ main {
 }
 
 .input-family {
+  margin-top: 10px;
+}
+
+.content-check {
+  display: flex;
+  flex-direction: column;
   margin-top: 20px;
+}
+
+.content {
+  margin-top: 10px;
+}
+
+main {
+  display: flex;
 }
