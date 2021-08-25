@@ -48,3 +48,13 @@ main {
 .emailHouse {
   display: flex;
 }
+
+.family {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.input-family {
+  margin-top: 20px;
+}
