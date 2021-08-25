@@ -10,6 +10,10 @@
   background-color: rgb(50, 167, 145);
 }
 
+.forms {
+  order: 3;
+}
+
 .trybewarts-login {
   display: flex;
 }
@@ -18,8 +22,14 @@
   border-radius: 10px;
   border: 0;
   box-sizing: border-box;
+  margin-right: 10px;
 }
 
 .trybewarts-header-logo {
   width: 70px;
+  order: 1;
+}
+
+.title {
+  order: 2;
 }
