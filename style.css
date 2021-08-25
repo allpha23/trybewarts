@@ -81,3 +81,11 @@ main {
 #label-rate {
   margin-right: 10px;
 }
+
+.infos {
+  display: flex;
+}
+
+#label-infos {
+  margin-right: 10px;
+}
