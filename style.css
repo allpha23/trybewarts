@@ -5,7 +5,8 @@
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: center;
   background-color: rgb(50, 167, 145);
 }
 
@@ -15,4 +16,10 @@
 
 .trybewarts-login input {
   border-radius: 10px;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.trybewarts-header-logo {
+  width: 70px;
 }
