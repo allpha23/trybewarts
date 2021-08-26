@@ -83,3 +83,10 @@ main {
 #label-infos {
   margin-right: 10px;
 }
+
+#footer {
+  height: 30px;
+  background-color:rgb(37, 41, 40);
+  color: white;
+  text-align: center;
+}
